@@ -1,0 +1,16 @@
+#blacklist top level folder
+/*
+
+#whitelist files & folders
+!.gitignore
+!README.md
+
+!.i3/
+!.i3status.conf
+
+.config
+!.config/picom.conf
+!.bashrc
+!.bash_profile
+!.bash_aliases
+!.profile
