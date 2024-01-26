@@ -8,7 +8,6 @@
 !.i3/
 !.i3status.conf
 
-.config
 !.config/picom.conf
 !.bashrc
 !.bash_profile
