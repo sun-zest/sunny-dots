@@ -13,7 +13,8 @@
 .config/*
 !.config/picom.conf
 !.config/polybar/
-!.config/wal/**/*
+!.config/wal
+
 !.bashrc
 !.bash_profile
 !.bash_aliases
