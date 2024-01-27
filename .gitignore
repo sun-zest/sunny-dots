@@ -14,7 +14,9 @@
 !.config/picom.conf
 !.config/polybar/
 !.config/wal/
-
+.config/wal/*
+!.config/wal/colorschemes/
+!.config/wal/templates/
 !.bashrc
 !.bash_profile
 !.bash_aliases
