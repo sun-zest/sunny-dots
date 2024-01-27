@@ -140,7 +140,7 @@ ex ()
 alias pfetch='sh ~/stuff/applications/pfetch.sh'
 
 # wal -q -i '/home/sun/Pictures/lain wallpapers/71 - x4jRxjs.jpg'
-wal -q -i '/home/sun/Documents/gimp projects/hacker-wallpaper.png'
+wal -q -i '~.wallpapers/hacker-wallpaper.png'
 
 # so wal updates all future terminal windows with colour scheme
 # Import colorscheme from 'wal' asynchronously
