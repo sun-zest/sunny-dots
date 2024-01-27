@@ -15,7 +15,7 @@
 !.config/polybar/
 !.config/wal/
 
-!.wallpapers
+!.wallpapers/
 
 !.bashrc
 !.bash_profile
