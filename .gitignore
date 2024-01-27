@@ -12,8 +12,8 @@
 !.config
 .config/*
 !.config/picom.conf
-!.config/polybar/*
-!.config/wal/*
+!.config/polybar/
+!.config/wal/
 
 !.bashrc
 !.bash_profile
