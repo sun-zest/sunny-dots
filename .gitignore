@@ -19,6 +19,8 @@
 
 !.scripts/
 
+!.cache/wal/
+
 !.bashrc
 !.bash_profile
 !.bash_aliases
