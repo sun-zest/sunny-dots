@@ -140,13 +140,12 @@ ex ()
 alias pfetch='sh ~/.scripts/pfetch.sh'
 
 # wal -q -i '/home/sun/Pictures/lain wallpapers/71 - x4jRxjs.jpg'
-wal -q -i '~.wallpapers/hacker-wallpaper.png'
-
+wal -q -i '/home/sun/.wallpapers/hacker-wallpaper.png'
 # so wal updates all future terminal windows with colour scheme
 # Import colorscheme from 'wal' asynchronously
 # &   # Run the process in the background.
 # ( ) # Hide shell job control messages.
 # Not supported in the "fish" shell.
-(cat ~/.cache/wal/sequences &)
+(cat /home/sun/.cache/wal/sequences &)
 
 alias music='~/stuff/applications/Cider-2.2.0.AppImage'
