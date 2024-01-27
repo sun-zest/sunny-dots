@@ -137,7 +137,7 @@ ex ()
 }
 
 # aliases
-alias pfetch='sh ~/stuff/applications/pfetch.sh'
+alias pfetch='sh ~/.scripts/pfetch.sh'
 
 # wal -q -i '/home/sun/Pictures/lain wallpapers/71 - x4jRxjs.jpg'
 wal -q -i '~.wallpapers/hacker-wallpaper.png'

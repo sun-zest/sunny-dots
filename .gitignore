@@ -17,6 +17,8 @@
 
 !.wallpapers/
 
+!.scripts/
+
 !.bashrc
 !.bash_profile
 !.bash_aliases
