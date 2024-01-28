@@ -12,6 +12,8 @@ Screenshot:
 
 # Infomashun
 
+| thing        | what i got     |
+| ------------ | -------------- |
 | wm           | i3wm           |
 | bars         | polybar        |
 | terminal     | alacritty      |
