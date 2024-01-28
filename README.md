@@ -1,4 +1,4 @@
-#.dotfiles
+# .dotfiles
 
 dump of the shit on my machine? I think...
 
