@@ -1,4 +1,6 @@
-# Current dot files
+#.dotfiles
+
+dump of the shit on my machine? I think...
 
 Minimal setup using i3wm, polybar and wal.
 
@@ -7,3 +9,11 @@ inspiration for colourscheme and polybar goes to u/xaetlas [on reddit](https://w
 Screenshot:
 
 ![desktop screenshot](https://github.com/sun-zest/sunny-dots/blob/master/.desktop-hacker-screenshot.png)
+
+# Infomashun
+
+| wm           | i3wm           |
+| bars         | polybar        |
+| terminal     | alacritty      |
+| file manager | ranger         |
+| wallpaper    | check .wallpapers |
